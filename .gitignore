@@ -1,0 +1,36 @@
+# gitignore for the project PSD-IMS
+
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trash*
+Icon?
+ethumbs.db
+Thumbs.db
+*.tmp
+
+# Temporary files
+*~
+leak_*.txt
+temp/
+
+# Binaries
+bin/
+
+server_files
+attached_files_snd
+attached_files_rcv
+
+# Vim
+*.swp
+
+
+# build project
+build/
+
+
+# roms
+roms/
